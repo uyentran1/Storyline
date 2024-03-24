@@ -1,0 +1,2 @@
+Chapter 1:
+It is Sunday, 24th March 2024. We're learning about gits. Today lesson is about branching and merging.
